@@ -60,3 +60,6 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
   
 ## Summary
+The EasyEnsembleClassifier yielded the best results, with accuracy at 92.47%, alongside Recall > 90% for both high and low risk categories.
+
+Recommendation is to use the EasyEnsembleClassifier.
