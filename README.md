@@ -29,7 +29,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
         
   - SMOTEENN: 
        
-        Accuracy: 51.61%
+        Accuracy: 51.60%
         high_risk: 1% Precision, 70% Recall, F1 0.02
         low_risk: 100% Precision, 58% Recall, F1 0.73
         
