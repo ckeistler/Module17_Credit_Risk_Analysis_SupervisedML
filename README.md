@@ -39,11 +39,15 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
         high_risk: 4% Precision, 67% Recall, F1 0.07
         low_risk: 100% Precision, 91% Recall, F1 0.95
         
+ ![rfc1](https://user-images.githubusercontent.com/88443672/148701859-78c6d873-a634-4d9a-b803-9039bf9fe0f5.png)
+
   - EasyEnsembleClassifier: 
         
         Accuracy: 92.47%
         high_risk: 7% Precision, 91% Recall, F1 0.14
         low_risk: 100% Precision, 94% Recall, F1 0.97
-  
+        
+ ![eec](https://user-images.githubusercontent.com/88443672/148701855-78b92631-91b1-4a02-8d2e-8c0be37fb260.png)
+
   
 ## Summary
