@@ -41,9 +41,9 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
         
   - EasyEnsembleClassifier: 
         
-        Accuracy: 78.78%
-        high_risk: 4% Precision, 67% Recall, F1 0.07
-        low_risk: 100% Precision, 91% Recall, F1 0.95
+        Accuracy: 92.47%
+        high_risk: 7% Precision, 91% Recall, F1 0.14
+        low_risk: 100% Precision, 94% Recall, F1 0.97
   
   
 ## Summary
