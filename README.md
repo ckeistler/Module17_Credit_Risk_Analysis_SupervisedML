@@ -15,24 +15,32 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
         high_risk: 1% Precision, 62% Recall, F1 0.02
         low_risk: 100% Precision, 68% Recall, F1 0.81
         
+![ROS](https://user-images.githubusercontent.com/88443672/148702436-f7999479-c3f7-485c-adb7-cb7b3a975035.png)
+
   - SMOTE: 
   
         Accuracy: 62.42% 
         high_risk: 1% Precision, 59% Recall, F1 0.02
         low_risk: 100% Precision, 66% Recall, F1 0.80
         
+![smote](https://user-images.githubusercontent.com/88443672/148702450-33e73106-3ac3-44ed-a5fb-334a1aaea584.png)
+
   - ClusterCentroids: 
         
         Accuracy: 62.42% Accuracy
         high_risk: 1% Precision, 60% Recall, F1 0.01
         low_risk: 100% Precision, 43% Recall, F1 0.60
         
+![cc](https://user-images.githubusercontent.com/88443672/148702457-9aef8113-79b7-453c-a0a7-ccb6b8dd7dd3.png)
+
   - SMOTEENN: 
        
         Accuracy: 51.60%
         high_risk: 1% Precision, 70% Recall, F1 0.02
         low_risk: 100% Precision, 58% Recall, F1 0.73
         
+ ![smoteenn](https://user-images.githubusercontent.com/88443672/148702422-ca9a4379-2d7d-47a9-9a3e-b8f9e5a680ad.png)
+ 
   - BalancedRandomForestClassifier: 
         
         Accuracy: 78.78%
