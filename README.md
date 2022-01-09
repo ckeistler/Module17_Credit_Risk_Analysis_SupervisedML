@@ -10,31 +10,37 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 #### Results by Machine Learning Model
   
   - RandomOverSampler: 
+  
         Accuracy: 65.16%  
         high_risk: 1% Precision, 62% Recall, F1 0.02
         low_risk: 100% Precision, 68% Recall, F1 0.81
         
   - SMOTE: 
+  
         Accuracy: 62.42% 
         high_risk: 1% Precision, 59% Recall, F1 0.02
         low_risk: 100% Precision, 66% Recall, F1 0.80
         
   - ClusterCentroids: 
+        
         Accuracy: 62.42% Accuracy
         high_risk: 1% Precision, 60% Recall, F1 0.01
         low_risk: 100% Precision, 43% Recall, F1 0.60
         
   - SMOTEENN: 
+       
         Accuracy: 51.61%
         high_risk: 1% Precision, 70% Recall, F1 0.02
         low_risk: 100% Precision, 58% Recall, F1 0.73
         
   - BalancedRandomForestClassifier: 
+        
         Accuracy: 78.78%
         high_risk: 4% Precision, 67% Recall, F1 0.07
         low_risk: 100% Precision, 91% Recall, F1 0.95
         
   - EasyEnsembleClassifier: 
+        
         Accuracy: 78.78%
         high_risk: 4% Precision, 67% Recall, F1 0.07
         low_risk: 100% Precision, 91% Recall, F1 0.95
